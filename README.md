@@ -9,7 +9,7 @@
 - [# Связь](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
 
 # Installing
-1. Устанавливаем [Архив](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/releases/download/1.0.4/AdminHelperGta5RP-v1.0.4.zip) и распаковываем в любое удобное вам место
+1. Устанавливаем [Архив](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/archive/refs/heads/main.zip) и распаковываем в любое удобное вам место
 2. После распаковки по желанию нажимаем ПКМ по приложению -> Отправить -> Рабочий стол (Ярлык)
    ![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/c179db40-d1e7-4530-b346-f67c1cf4fe0f)
 3. Запускаем желательно от имени администрации
