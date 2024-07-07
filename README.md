@@ -2,11 +2,11 @@
 Помощник для администрации серверов проекта GTA 5 RP
 Репозиторий создан для того что-бы было легко устанавливать новые версии программы не спрашивая у разработчика в дискорде, а так-же для идей которые могут быть внедрены в программу.
 
-- [# Installing](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#installing)
-- [# Getting Starting](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#installing)
-- [# Редактор биндов](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
-- [# Настройки](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
-- [# Связь](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
+- [# Installing](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#installing)
+- [# Getting Starting](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#getting-starting)
+- [# Редактор биндов](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
+- [# Настройки](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
+- [# Связь](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
 
 # Installing
 1. Устанавливаем [Архив](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/archive/refs/heads/main.zip) и распаковываем в любое удобное вам место
@@ -31,7 +31,7 @@
   ![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/95864ee4-8c2c-4b78-9855-8baf115cad1d)
 - Поле поиска помогает найти бинд если их очень много для того что бы изменить/удалить его
 - Все созданные бинды
-- Кнопка "Создать бинд" открывает редактор бинда для его создания - [Редактор биндов](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/edit/main/README.md#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
+- Кнопка "Создать бинд" открывает редактор бинда для его создания
 - Кнопка "Для наказаний Beta" открывает тестовое окно где можно сделать список наказаний если вы наказываете много игроков.
 - Кол-во всех и отключенных биндов
 - Версия
