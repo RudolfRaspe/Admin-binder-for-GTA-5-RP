@@ -2,6 +2,10 @@
 Помощник для администрации серверов проекта GTA 5 RP
 Репозиторий создан для того что-бы было легко устанавливать новые версии программы не спрашивая у разработчика в дискорде, а так-же для идей которые могут быть внедрены в программу.
 
+Разрешение на котором работает без проблем является ***1920x1080***
+
+**ВАЖНО: Биндер не будет работать на других мониторах, будет работать на том, который преимущественее, либо же первый простыми словами.**
+
 - [# Installing](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#installing)
 - [# Getting Starting](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#getting-starting)
 - [# Редактор биндов](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
@@ -14,6 +18,8 @@
    ![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/c179db40-d1e7-4530-b346-f67c1cf4fe0f)
 3. Запускаем желательно от имени администрации
 Примечание: Антивирус может жаловаться на программу, что-бы этого избежать добавьте исполняемый файл (exe) в исключения антивируса.
+
+
 
 # Getting Starting
 После открытия вас будет встречать это окно
