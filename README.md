@@ -1,4 +1,5 @@
-# v1.0.4
+# v1.0.5
+[Что нового?](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/blob/main/CHANGELOGS.md#v105)
 # Admin binder for GTA 5 RP
 Помощник для администрации серверов проекта GTA 5 RP
 
