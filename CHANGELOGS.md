@@ -1,3 +1,12 @@
+## v1.0.6.4
+- Добавлена поддержка DiscordRPC, то что на скрине, текст каждые 30 секунд меняется на другой
+
+  ![image](https://github.com/user-attachments/assets/b396e235-c5a2-4c5d-8c52-8ce54bd579f3)
+- Без прав администратора не получиться функционировать с DiscordRPC, что-бы DiscordRPC работал, требуется сделать это:
+
+  ![image](https://github.com/user-attachments/assets/4d472923-2cce-4e6b-bcfa-8d559674bb92)
+- В настройки добавлена галочка "DiscordRPC", после включения Rich Presence сразу будет на вашем профиле
+
 ## v1.0.6.3
 - Фикс ошибок и небольшая оптимизация
 
