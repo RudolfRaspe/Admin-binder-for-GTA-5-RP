@@ -1,4 +1,4 @@
-# Admin binder for GTA 5 RP | v1.0.6.5 [Что нового?](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/blob/main/CHANGELOGS.md#v105)
+# Admin binder for GTA 5 RP | v1.0.6.5 [Что нового?](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/blob/main/CHANGELOGS.md#v105)
 Помощник для администрации серверов проекта GTA 5 RP
 
 Репозиторий создан для того что-бы было легко устанавливать новые версии программы не спрашивая у разработчика в дискорде, а так-же для идей которые могут быть внедрены в программу.
@@ -7,17 +7,17 @@
 
 **ВАЖНО: Биндер не будет работать на других мониторах, будет работать на том, который преимущественее, либо же первый простыми словами.**
 
-- [# Installing](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#installing)
-- [# Getting Starting](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#getting-starting)
-- [# Редактор биндов](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
-- [# Настройки](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
-- [# Связь](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
+- [# Installing](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#installing)
+- [# Getting Starting](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#getting-starting)
+- [# Редактор биндов](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%BD%D0%B4%D0%BE%D0%B2)
+- [# Настройки](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
+- [# Связь](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/tree/main?tab=readme-ov-file#%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
 
 # Installing
-1. Устанавливаем [Архив](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/archive/refs/heads/main.zip) и распаковываем в любое удобное вам место
+1. Устанавливаем [Архив](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/archive/refs/heads/main.zip) и распаковываем в любое удобное вам место
 2. После распаковки **по желанию** нажимаем ПКМ по приложению -> Отправить -> Рабочий стол (создать ярлык)
 
-   ![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/c179db40-d1e7-4530-b346-f67c1cf4fe0f)
+   ![image](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/assets/90341601/c179db40-d1e7-4530-b346-f67c1cf4fe0f)
 3. Запускаем желательно от имени администрации
 
 Примечание: Антивирус может жаловаться на программу, что-бы этого избежать добавьте исполняемый файл (exe) в исключения антивируса.
@@ -27,7 +27,7 @@
 # Getting Starting
 После открытия вас будет встречать это окно
 
-![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/53d1eed7-4a4d-43b8-b872-5649aa7471d5)
+![image](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/assets/90341601/53d1eed7-4a4d-43b8-b872-5649aa7471d5)
 
 - Информация и тэг дискорда разработчика для обратной связи
 - Подсчёт ответов на репорты(Может быть не точным)
@@ -37,7 +37,7 @@
 - Кнопка "S" открывает окно настроек
 - Кнопка "H" скрывает окно в скрытые значки
   
-  ![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/95864ee4-8c2c-4b78-9855-8baf115cad1d)
+  ![image](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/assets/90341601/95864ee4-8c2c-4b78-9855-8baf115cad1d)
 - Поле поиска помогает найти бинд если их очень много для того что бы изменить/удалить его
 - Все созданные бинды
 - Кнопка "Создать бинд" открывает редактор бинда для его создания
@@ -47,14 +47,14 @@
 
 Как вы можете заметить биндер уже имеет в себе бинды с информацией и названием кнопок, вы можете их оставить, но учтите, информация в них находится для сервера Rockford, вы можете их изменить самостоятельно, либо сделать их с нуля просто удалив файл "binder.json" из папки куда вы распаковали и снова запустив программу у вас будет такое окно:
 
-![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/963420a4-2c8b-47e4-8450-87f11497b9bc)
+![image](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/assets/90341601/963420a4-2c8b-47e4-8450-87f11497b9bc)
 
 Кнопка "Загрузить шаблон" загружает 2 бинда с названиями "Лечу" и "Приятной игры".
 
 Вы можете не загружать шаблон, а сразу нажать на кнопку "Создать бинд"
 
 # Редактор биндов
-![image](https://github.com/FichiDi/Admin-binder-for-GTA-5-RP/assets/90341601/c8d56edd-2e60-4599-b246-d153931f4ce7)
+![image](https://github.com/RudolfRaspe/Admin-binder-for-GTA-5-RP/assets/90341601/c8d56edd-2e60-4599-b246-d153931f4ce7)
 
 - Кнопка "Сохранить" - сохраняет бинд.
 - Кнопка "Отменить" - отменяет все действия при изменении бинда, либо отменяет создание нового.
